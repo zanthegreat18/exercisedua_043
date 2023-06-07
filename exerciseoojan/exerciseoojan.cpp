@@ -80,4 +80,4 @@ int main() {
     cout << "Keliling Bujursangkar = " << b->Keliling(b->getX()) << endl;
 
     return 0;
-}
+} 
